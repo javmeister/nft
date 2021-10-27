@@ -1,31 +1,35 @@
 {
-"name": "One",
-"symbol": "TEST",
-"description": "Two creators",
-"seller_fee_basis_points": 100,
-"external_url": "",
-"edition": "",
-"background_color": "000000",
-"attributes": [
-{
-"trait_type": "Creators",
-"value": "Two"
-}
-],
-"properties": {
-"category": "image",
-"creators": [
-{
-"address": "PanbgtcTiZ2PveV96t2FHSffiLHXXjMuhvoabUUKKm8",
-"share": 100
-}
-],
-"files": [
-{
-"uri": "https://www.arweave.net/asDrJFykiui-kpJ-B3KhtV5fgA30hXB_5Q4yHqVmrOQ?ext=png",
-"file_type": "image/png"
-}
-]
-},
-"image": "https://www.arweave.net/asDrJFykiui-kpJ-B3KhtV5fgA30hXB_5Q4yHqVmrOQ?ext=png"
+  "name": "Nostromo",
+  "symbol": "SOS",
+  "description": "<p>Constellation Class Alliance Starship</p><a href='https://singularity-online.com'>Singularity</a>",
+  "seller_fee_basis_points": 0,
+  "external_url": "",
+  "edition": "",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Constellation"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Carrier"
+    }
+  ],
+  "properties": {
+    "category": "virtual_world",
+    "creators": [
+      {
+        "address": "8PfodHoRSwdrhBbCC87ZnUNtXFx2egFQzw2HSm5FdJHs",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://nft.singularity-online.com/nft/4bxC9deRXWFfaGoetYefd9vDkLHiX7VS3GJ7cn5oCRy7/4bxC9deRXWFfaGoetYefd9vDkLHiX7VS3GJ7cn5oCRy7.jpg",
+        "file_type": "image/jpg"
+      }
+    ]
+  },
+  "image": "https://nft.singularity-online.com/nft/4bxC9deRXWFfaGoetYefd9vDkLHiX7VS3GJ7cn5oCRy7/4bxC9deRXWFfaGoetYefd9vDkLHiX7VS3GJ7cn5oCRy7.jpg"
 }
